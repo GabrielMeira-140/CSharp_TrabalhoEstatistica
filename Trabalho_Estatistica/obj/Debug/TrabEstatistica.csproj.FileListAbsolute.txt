@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\bin\Debug\Trabalho_Estatistica.exe.config
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\bin\Debug\Trabalho_Estatistica.exe
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\bin\Debug\Trabalho_Estatistica.pdb
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\TrabEstatistica.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\Trabalho_Estatistica.Form1.resources
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\Trabalho_Estatistica.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\TrabEstatistica.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\TrabEstatistica.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\Trabalho_Estatistica.exe
+C:\Users\Gabriel\Desktop\Trabalho_Estatistica\Trabalho_Estatistica\obj\Debug\Trabalho_Estatistica.pdb
